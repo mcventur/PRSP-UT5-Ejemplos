@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjemplosUT5.iml" filepath="$PROJECT_DIR$/EjemplosUT5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidacionEntradas/ValidacionEntradas.iml" filepath="$PROJECT_DIR$/ValidacionEntradas/ValidacionEntradas.iml" />
+    </modules>
+  </component>
+</project>
